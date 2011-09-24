@@ -1,0 +1,8 @@
+{
+  "name"          : "xmlrpc-client",
+  "version"       : "0.0.1",
+  "description"   : "An XML-RPC client with support for streaming.",
+  "keywords"      : ["xmlrpc", "xml", "rpc"],
+  "author"        : "Benno Leslie <benno@benno.id.au> (http://benno.id.au/)",
+  "main"          : "./lib/xmlrpc-client.js"
+}
